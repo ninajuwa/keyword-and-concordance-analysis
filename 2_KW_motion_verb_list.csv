@@ -1,0 +1,133 @@
+English Motion verb	Lemma Freq BNC	Lemma Freq Music Corp	Semantic components
+come	143322	6224	Path
+go	236313	4578	Path
+follow	40602	4527	Path
+lead	32102	2851	Figure + CO-MOTION
+move	37290	2123	(Motion)
+fall	25843	1692	Path
+return	21364	1128	Path
+accompany	4663	1113	Figure + CO-MOTION
+rise	14608	1017	Manner / Path
+run	38304	816	Manner
+reach	22088	751	Path
+enter	13681	718	Path
+pass	19336	693	Path
+arrive	13422	617	Path
+descend	1654	590	Path
+throw	10776	466	Manner
+abandon	4253	429	Path
+guide	2055	416	Figure + CO-MOTION
+travel	8410	368	Manner
+ascend	323	344	Path
+pace	602	343	Manner
+cross	6706	332	Path
+drop	10021	304	Path
+approach	6647	294	Path
+spin	1710	293	Manner
+soar	934	287	Path + Manner
+float	1708	251	Manner
+walk	19882	223	Manner
+pursue	4512	220	Path
+speed	1711	220	Manner
+sweep	2949	216	Manner
+rush	3025	205	Manner
+stretch	4472	203	Manner
+step	5520	180	Figure (body part: foot) + Manner
+penetrate	1162	178	Path
+wander	2306	178	Manner
+roll	4438	163	Manner
+slip	4667	155	Manner
+edge	743	154	Manner
+plunge	1333	149	Path + Manner
+spring	1722	146	Manner
+chase	2013	140	Path + Manner
+depart	1338	138	Path
+slide	2798	132	Manner
+jump	4810	131	Manner
+tear	2663	126	Manner
+pop	1956	117	Manner
+mount	3037	115	Path
+swirl	395	113	Manner
+hover	878	112	Ground (on air)
+scatter	1516	107	Path
+thrust	1325	107	Path + Manner
+shake	8494	103	Manner
+bound	487	98	Manner
+sway	758	96	Manner
+revolve	485	96	Manner
+climb	5328	95	Path + Manner
+leap	1961	92	Manner
+rotate	684	91	Manner
+sink	2919	83	Path
+tumble	824	80	Path + Manner
+dash	876	80	Manner
+stagger	718	78	Manner
+creep	1452	78	Manner
+bend	3259	75	Manner
+hurl	665	74	Manner
+wave	2471	74	Manner
+recede	445	72	Path
+accelerate	1046	71	Manner
+tremble	1383	69	Manner
+stumble	997	69	Manner
+whirl	380	69	Manner
+circle	631	68	Manner
+lean	4444	68	Manner
+skip	660	68	Manner
+meander	173	67	Manner
+escape	5135	67	Path
+dart	538	66	Manner
+flee	1998	66	CAUSE + Path + Manner
+rock	948	66	Manner
+glide	433	64	Manner
+drift	1828	59	CAUSE
+stamp	1158	59	Figure (body part: foot) + Manner
+swoop	393	58	Path + Manner + Ground
+bounce	1167	57	Manner
+lurch	392	55	Manner
+thunder	290	54	Manner
+flutter	451	53	Manner
+swim	2302	52	Manner + Ground (water)
+trail	1070	52	Path + Manner
+divert	1156	48	Path
+crouch	801	47	Manner
+stride	1040	47	Manner
+hurtle	248	46	Manner
+waft	199	46	Ground (air) + Manner 
+tail	172	46	Path + Manner
+traverse	291	45	Path
+storm	659	44	Manner
+flit	221	41	Manner
+scurry	297	40	Manner
+stomp	102	40	Manner
+retreat	889	40	Path
+plod	210	39	Manner
+teeter	116	39	Manner
+wobble	219	38	Manner
+hurry	2291	36	Manner
+land	3628	36	Path + Ground (land)
+shiver	1093	36	Manner
+stray	484	36	Path
+flip	420	35	Manner
+race	3496	35	Manner
+scamper	167	34	Manner
+shadow	291	33	Path
+shudder	660	33	Manner
+trip	779	33	Manner
+scramble	966	32	Manner
+swagger	19	31	Manner
+vault	150	30	Manner
+bowl	727	29	Manner
+wheel	663	29	Manner
+quiver	342	28	Manner
+roam	535	27	Manner
+trot	436	26	Manner
+advance	2925	25	Path
+skitter	57	25	Manner
+crawl	1050	23	Manner
+kneel	963	22	Manner
+coil	211	22	Manner
+reel	402	22	Manner
+overturn	636	21	Manner
+desert	999	21	Path
+hasten	474	20	Manner
